@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.defaultBrowser": "default",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "livePreview.defaultPort": 3000,
+  "files.autoSave": "afterDelay"
+}
